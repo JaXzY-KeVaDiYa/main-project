@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jaxzy-kevadiya.github.io/main-project/static/css/main.7af035bb.css",
+    "main.js": "/jaxzy-kevadiya.github.io/main-project/static/js/main.2f9602b8.js",
+    "static/js/453.7d2eecca.chunk.js": "/jaxzy-kevadiya.github.io/main-project/static/js/453.7d2eecca.chunk.js",
+    "index.html": "/jaxzy-kevadiya.github.io/main-project/index.html",
+    "main.7af035bb.css.map": "/jaxzy-kevadiya.github.io/main-project/static/css/main.7af035bb.css.map",
+    "main.2f9602b8.js.map": "/jaxzy-kevadiya.github.io/main-project/static/js/main.2f9602b8.js.map",
+    "453.7d2eecca.chunk.js.map": "/jaxzy-kevadiya.github.io/main-project/static/js/453.7d2eecca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7af035bb.css",
+    "static/js/main.2f9602b8.js"
+  ]
+}
